@@ -6,7 +6,7 @@
 
 [News](https://adeetc.thothapp.com/classes/PC/1617i/LI51D/news)
 
-[Lectures]()https://adeetc.thothapp.com/classes/PC/1617i/LI51D/lectures)
+[Lectures](https://adeetc.thothapp.com/classes/PC/1617i/LI51D/lectures)
 
 ## Calendar
 
