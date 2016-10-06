@@ -8,6 +8,10 @@
 
 [Lectures](https://adeetc.thothapp.com/classes/PC/1617i/LI51D/lectures)
 
+## Examples
+
+The `examples` folder contains the state of the examples after each class, which means they may be incomplete or have an explicit error.
+
 ## Calendar
 
 * First problem set - weeks 4 to 8 (10/10/2016 to 7/11/2016)
