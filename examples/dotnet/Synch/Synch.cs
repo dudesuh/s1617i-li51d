@@ -108,9 +108,18 @@ static class Locks {
 
 	private static void  IntrinsicLockProtecetedIncrement() {
 	
-		lock(intrinsicLock) {
+		lock(intrinsicLock) { // intrinsicLock is an object
 			UnprotectedIncrement();
 		}
+
+
+
+
+
+
+
+
+
 		
 		// Which expands to:
 		/*
@@ -179,7 +188,7 @@ static class Locks {
 			//
 	
 			//UnprotectedIncrement();
-			//AtomicIncrement();
+			AtomicIncrement();
 			//AtomicIncrementUsingCAS();
 			SpinLockProtectedIncrement();
 			//MySpinLockProtectedIncrement();
